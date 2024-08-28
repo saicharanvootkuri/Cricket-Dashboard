@@ -13,12 +13,8 @@ The Cricket-Dashboard project is designed to provide insightful visualizations a
    ```bash
    git clone https://github.com/saicharanvootkuri/Cricket-Dashboard.git
    cd Cricket-Dashboard
-   
-2.**Set up Python environment (for running the Jupyter notebook)**:
+ 2.**Set up Python environment (for running the Jupyter notebook)**:
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
    pip install -r requirements.txt
-
-
-
